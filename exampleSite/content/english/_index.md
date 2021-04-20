@@ -3,13 +3,13 @@ banner:
   enable: true
   bg_image: "/images/oriental_ball_photos133.jpg"
   bg_overlay: true
-  title: Welcome To Warwick Abacus!
+  title: Welcome To <br/>& Warwick Abacus!
   content: We love the Web and the work we do.We work closely with our clients to
     deliver  the best possible solutions for their needs
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: https://www.warwicksu.com/societies-sports/societies/27719/
+    link: Join Now
 about:
   enable: true
   title: About Us
