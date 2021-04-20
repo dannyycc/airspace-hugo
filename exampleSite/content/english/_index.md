@@ -22,17 +22,20 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: What is ABACUS about?
+  content: "Promotion of Chinese culture and values. Our events will allow you to
+    experience this age old culture rich of unique fascinating traditions.\n\nFinding
+    a sense of inclusivity. If you ever felt out of place, you may just be able to
+    find like-minded people who will understand you. We are a close community and
+    we try to accommodate everyone with common interests. You will likely build bonds
+    for life and create a home away from home!\n\nDiversity. Not only you will find
+    a range of all sorts of people with incredible international mindsets, yet woven
+    together through the influence of a Chinese background. Nevertheless, we can also
+    cater anyone with even the mildest interests in Chinese culture.\n\nFun! Above
+    everything else, we wish to create an relaxed social environment for everyone
+    to create cheerful memories and ever lasting relationships in the society. "
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
