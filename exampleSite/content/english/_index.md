@@ -3,12 +3,12 @@ banner:
   enable: true
   bg_image: "/images/oriental_ball_photos133.jpg"
   bg_overlay: true
-  title: Welcome To <br/>& Warwick Abacus!
+  title: Welcome To <br/> Warwick Abacus!
   content: ''
   button:
     enable: true
-    label: https://www.warwicksu.com/societies-sports/societies/27719/
-    link: Join Now
+    label: Join Now
+    link: https://www.warwicksu.com/societies-sports/societies/27719/
 about:
   enable: true
   title: Association of British and Chinese University Students
