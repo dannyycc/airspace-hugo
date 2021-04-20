@@ -64,12 +64,13 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Stella Wong
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: President
+    content: |-
+      2nd Year PPE
+
+      Hi everyone, I’m Ryan - half Malaysian half British, but I grew up in Hong Kong. I'm excited to be your president for next year and I’ll do my best to make the society fun and inclusive! I love photography and will never say no to food (rip my budget). Also, my flush is definitely the worst. Looking forward to meeting everyone!
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
