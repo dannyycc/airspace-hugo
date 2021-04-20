@@ -111,8 +111,8 @@ URL = "about"
 name = "About"
 weight = 2
 [[languages.en.menu.main]]
-URL = "project"
-name = "Project"
+URL = "events"
+name = "Events"
 weight = 3
 [[languages.en.menu.main]]
 URL = "blog"
