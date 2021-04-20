@@ -282,7 +282,7 @@ home = ["HTML"]
 author = "Warwick Abacus"
 description = "Warwick Abacus Society"
 images = ["images/logo.png"]
-logo = "/images/logo.jpg"
+logo = "/images/favicon.png"
 logo_width = "200px"
 title = "Warwick Abacus"
 [params.contact]
