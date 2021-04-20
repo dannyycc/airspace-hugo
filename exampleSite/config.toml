@@ -283,7 +283,7 @@ author = "Themefisher"
 description = "Warwick Abacus Society"
 images = ["images/logo.png"]
 logo = "/images/logo.jpg"
-logo_width = "150px"
+logo_width = "922px"
 title = "Warwick Abacus"
 [params.contact]
 address_descriptors = false
