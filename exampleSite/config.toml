@@ -289,7 +289,7 @@ title = "Warwick Abacus"
 address_descriptors = false
 email = "warwickabacus@gmail.com"
 location = "University Of Warwick"
-phone = "0124857985320"
+phone = ""
 [params.contact.form]
 action = "#"
 enable = true
