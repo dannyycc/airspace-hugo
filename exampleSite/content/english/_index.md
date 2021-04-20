@@ -18,7 +18,6 @@ about:
 
     Through the people and the wide range of exciting events we will bring you throughout the year, we hope you will have a happy and unforgettable university experience and establish lifelong friendships. Therefore, what have you got to lose? Come to have fun and meet new people at our next event!
   image: "/images/lasertag1.jpg"
-  funfacts: []
 portfolio:
   enable: true
   bg_image: "/images/14066321_10206926774349899_5579392699104157106_o-e1571562526696.jpg"
