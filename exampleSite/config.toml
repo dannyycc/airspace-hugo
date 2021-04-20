@@ -280,11 +280,11 @@ startLevel = 2
 home = ["HTML"]
 [params]
 author = "Themefisher"
-description = "This is meta description"
+description = "Warwick Abacus Society"
 images = ["images/logo.png"]
 logo = "/images/logo.jpg"
 logo_width = "150px"
-title = "Airspace Hugo Template"
+title = "Warwick Abacus"
 [params.contact]
 address_descriptors = false
 email = "demo@email.com"
