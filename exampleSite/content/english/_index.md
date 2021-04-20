@@ -50,7 +50,7 @@ funfacts:
   title: Meet The Execs
   description: ''
   testimonial_slider:
-  - name: Stella Wong
+  - name: Ryan Marney
     image: "/images/ryan.jpg"
     designation: President
     content: |-
