@@ -36,7 +36,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
 cta:
   enable: true
   bg_image: "/images/emailbanner.jpg"
