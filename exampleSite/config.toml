@@ -1,5 +1,5 @@
 baseURL = "https://warwickabacus.netlify.app/"
-disableLanguages = []
+disableLanguages = ["de", "it", "fr"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
