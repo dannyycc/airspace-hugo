@@ -23,6 +23,7 @@ about:
     experience and establish lifelong friendships. Therefore, what have you got to
     lose? Come to have fun and meet new people at our next event!
   image: images/wrapper-img.png
+  funfacts: []
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
