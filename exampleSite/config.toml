@@ -343,20 +343,8 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 icon = "ion-social-instagram-outline"
 link = "https://www.instagram.com/warwickabacus/?hl=en"
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "https://www.linkedin.com/company/warwick-abacus/about/"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "https://www.facebook.com/warwickabacus/"
