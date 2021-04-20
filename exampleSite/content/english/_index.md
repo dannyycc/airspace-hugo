@@ -47,11 +47,9 @@ cta:
     label: Join Now
     link: https://www.warwicksu.com/societies-sports/societies/27719/
 funfacts:
-  enable: false
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  enable: true
+  title: Meet The Execs
+  description: ''
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
