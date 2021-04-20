@@ -340,6 +340,9 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
+icon = "ion-social-instagram-outline"
+link = "https://www.instagram.com/warwickabacus/?hl=en"
+[[params.social]]
 icon = "ion-social-googleplus-outline"
 link = "#"
 [[params.social]]
