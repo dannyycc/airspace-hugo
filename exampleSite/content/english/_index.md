@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: "/images/oriental_ball_photos133.jpg"
   bg_overlay: true
-  title: Welcome To <br/> Warwick Abacus!
+  title: Welcome To <br/> Warwick Abacus
   content: ''
   button:
     enable: true
