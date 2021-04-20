@@ -21,7 +21,7 @@ about:
   funfacts: []
 portfolio:
   enable: true
-  bg_image: ''
+  bg_image: "/images/oriental_ball_photos96.jpg"
   title: What is ABACUS about?
   content: |-
     + **Promotion of Chinese culture and values.** Our events will allow you to experience this age old culture rich of unique fascinating traditions.
