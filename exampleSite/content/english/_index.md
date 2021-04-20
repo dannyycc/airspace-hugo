@@ -50,19 +50,7 @@ funfacts:
   enable: true
   title: Meet The Execs
   description: ''
-  funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
-  - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
-  - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
-  - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+  funfact_item: []
   testimonial_slider:
   - name: Stella Wong
     image: images/clients/avater-1.jpg
