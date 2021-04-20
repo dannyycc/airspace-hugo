@@ -279,7 +279,7 @@ startLevel = 2
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Warwick Abacus"
 description = "Warwick Abacus Society"
 images = ["images/logo.png"]
 logo = "/images/logo.jpg"
