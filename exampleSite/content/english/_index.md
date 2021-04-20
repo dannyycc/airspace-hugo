@@ -87,5 +87,13 @@ funfacts:
       or in front of a chess board (I can probs beat you with my eyes closed \U0001F92A).
       Other than that, I am very excited to be reeling in sponsors for y’all next
       year so you better keep your eyes peeled. See you next year!"
+  - name: Lonnie Yang
+    designation: Social Secretary
+    image: "/images/lonnie.jpg"
+    content: |2-
+
+      2nd Year English Lit and Creative Writing
+
+      Hey everyone I'm Lonnie I'm going into my second year of English Literature and Creative Writing. I'm from London, and I'm excited to be one of your (extremely responsible) social secs next year! I love cooking and all things food (and a bit of league on the side). I'm hoping to see everyone at our socials next year! I know quarantine's got everyone down right now at home but don't worry, I'll make you all red with Asian flush when we're back :))
 
 ---
