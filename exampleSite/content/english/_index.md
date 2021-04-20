@@ -72,9 +72,12 @@ funfacts:
       2nd Year Economics
 
       Hey I’m Guang, I’m a Portuguese born Chinese and I’ll be in charge of filling up the abacus bank account. I’ve always loved traveling, eating well, and making bad decisions. Catch me getting kicked out of a club and getting threatened by a priest in one night. I hope everyone enjoys what we’ve got planned for next year!
-  - name: Danny Chiu
-    image: ''
+  - name: Lucy Tam
+    image: "/images/lucy.jpg"
     designation: Secretary
-    content: ''
+    content: |-
+      2nd Year Mechanical Engineering
+
+      Hi I’m Lucy, I was brought up in the UK and I’ll be secretary for this year. I like to do origami and prop making and can usually be found at the buildspace working on some projects. I look forward to getting to know everyone in the society better and to support the rest of the exec to make this a great year ^^
 
 ---
