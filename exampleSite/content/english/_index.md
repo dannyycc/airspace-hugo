@@ -52,6 +52,10 @@ funfacts:
   description: ''
   funfact_item: []
   testimonial_slider:
+  - name: Danny Chiu
+    image: ''
+    designation: Secretary
+    content: ''
   - name: Stella Wong
     image: images/clients/avater-1.jpg
     designation: President
