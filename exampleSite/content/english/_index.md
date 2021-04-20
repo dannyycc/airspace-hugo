@@ -49,7 +49,6 @@ funfacts:
   enable: true
   title: Meet The Execs
   description: ''
-  funfact_item: []
   testimonial_slider:
   - name: Danny Chiu
     image: ''
@@ -60,7 +59,6 @@ funfacts:
     designation: President
     content: |-
       2nd Year PPE
-
       Hi everyone, I’m Ryan - half Malaysian half British, but I grew up in Hong Kong. I'm excited to be your president for next year and I’ll do my best to make the society fun and inclusive! I love photography and will never say no to food (rip my budget). Also, my flush is definitely the worst. Looking forward to meeting everyone!
   - name: Julia Huynh
     image: images/clients/avater-1.jpg
