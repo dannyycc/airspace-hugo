@@ -288,8 +288,6 @@ title = "Warwick Abacus"
 [params.contact]
 address_descriptors = false
 email = "warwickabacus@gmail.com"
-location = "University Of Warwick"
-phone = ""
 [params.contact.form]
 action = "#"
 enable = true
