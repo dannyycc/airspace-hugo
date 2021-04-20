@@ -283,7 +283,7 @@ author = "Warwick Abacus"
 description = "Warwick Abacus Society"
 images = ["images/logo.png"]
 logo = "/images/favicon.png"
-logo_width = "200px"
+logo_width = "150px"
 title = "Warwick Abacus"
 [params.contact]
 address_descriptors = false
