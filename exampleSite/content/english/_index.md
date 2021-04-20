@@ -46,7 +46,7 @@ cta:
     label: Join Now
     link: https://www.warwicksu.com/societies-sports/societies/27719/
 funfacts:
-  enable: true
+  enable: false
   title: Meet The Execs
   description: ''
   testimonial_slider:
