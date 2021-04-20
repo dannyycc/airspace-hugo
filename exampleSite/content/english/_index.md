@@ -64,15 +64,16 @@ funfacts:
       feel comfortable during events. If you see me around feel free to shout me for
       a gym sesh \U0001F3CB\U0001F3FB‍♂️, mahjong\U0001F004️, boba \U0001F964and ofc
       for any enquiries you may have. Hope to see you all next year at ABACUS events!"
+  - name: Guang Wu
+    image: "/images/guang.jpg"
+    designation: Treasurer
+    content: |-
+      2nd Year Economics
+
+      Hey I’m Guang, I’m a Portuguese born Chinese and I’ll be in charge of filling up the abacus bank account. I’ve always loved traveling, eating well, and making bad decisions. Catch me getting kicked out of a club and getting threatened by a priest in one night. I hope everyone enjoys what we’ve got planned for next year!
   - name: Danny Chiu
     image: ''
     designation: Secretary
     content: ''
-  - name: Guang Wu
-    image: images/clients/avater-3.jpg
-    designation: Treasurer
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
 
 ---
