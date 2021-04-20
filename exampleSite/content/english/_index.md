@@ -39,7 +39,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: "/images/emailbanner.jpg"
   title: Become a member of ABACUS and participate in our events
   content: ''
   button:
