@@ -50,10 +50,6 @@ funfacts:
   title: Meet The Execs
   description: ''
   testimonial_slider:
-  - name: Danny Chiu
-    image: ''
-    designation: Secretary
-    content: ''
   - name: Stella Wong
     image: "/images/ryan.jpg"
     designation: President
@@ -61,11 +57,17 @@ funfacts:
       2nd Year PPE
       Hi everyone, I’m Ryan - half Malaysian half British, but I grew up in Hong Kong. I'm excited to be your president for next year and I’ll do my best to make the society fun and inclusive! I love photography and will never say no to food (rip my budget). Also, my flush is definitely the worst. Looking forward to meeting everyone!
   - name: Julia Huynh
-    image: images/clients/avater-1.jpg
+    image: "/images/will.jpg"
     designation: Vice-President
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    content: "2nd Year Management\n\nHi guys I’m Will, I’m British Born Chinese from
+      London and I’m here to make sure that events run smoothly and for you guys to
+      feel comfortable during events. If you see me around feel free to shout me for
+      a gym sesh \U0001F3CB\U0001F3FB‍♂️, mahjong\U0001F004️, boba \U0001F964and ofc
+      for any enquiries you may have. Hope to see you all next year at ABACUS events!"
+  - name: Danny Chiu
+    image: ''
+    designation: Secretary
+    content: ''
   - name: Guang Wu
     image: images/clients/avater-3.jpg
     designation: Treasurer
