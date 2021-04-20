@@ -347,7 +347,7 @@ icon = "ion-social-googleplus-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/company/warwick-abacus/about/"
 [[params.social]]
 icon = "ion-social-pinterest-outline"
 link = "#"
