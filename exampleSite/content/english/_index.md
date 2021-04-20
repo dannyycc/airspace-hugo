@@ -79,5 +79,13 @@ funfacts:
       2nd Year Mechanical Engineering
 
       Hi I’m Lucy, I was brought up in the UK and I’ll be secretary for this year. I like to do origami and prop making and can usually be found at the buildspace working on some projects. I look forward to getting to know everyone in the society better and to support the rest of the exec to make this a great year ^^
+  - designation: Sponsorship Co-ordinator
+    name: Jake Liang
+    image: "/images/jake.jpg"
+    content: "2nd Year Economics\n\nHi, I’m Jake. I was born in Canada but now I live
+      in London. You will usually find me on summoners rift, in bed missing my lectures
+      or in front of a chess board (I can probs beat you with my eyes closed \U0001F92A).
+      Other than that, I am very excited to be reeling in sponsors for y’all next
+      year so you better keep your eyes peeled. See you next year!"
 
 ---
