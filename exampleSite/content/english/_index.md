@@ -95,5 +95,13 @@ funfacts:
       2nd Year English Lit and Creative Writing
 
       Hey everyone I'm Lonnie I'm going into my second year of English Literature and Creative Writing. I'm from London, and I'm excited to be one of your (extremely responsible) social secs next year! I love cooking and all things food (and a bit of league on the side). I'm hoping to see everyone at our socials next year! I know quarantine's got everyone down right now at home but don't worry, I'll make you all red with Asian flush when we're back :))
+  - name: Angel Huynh
+    designation: Social Secretary
+    content: "2nd Year Sociology\n\nHey I’m Angel and I’m one of your social secs
+      for 2020/21! I’m from Manchester and I’m Vietnamese! (we love inclusivity\U0001F1FB\U0001F1F3)
+      I’m a big foodie and I love bubble tea (so I’m always down to go for one \U0001F440)
+      You’ll be seeing me at every event and I can’t wait to meet everyone! Stay safe
+      and see you all v soon \U0001F95F\U0001F35C\U0001F363 xx"
+    image: "/images/angel-1.jpg"
 
 ---
