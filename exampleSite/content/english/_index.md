@@ -17,7 +17,7 @@ about:
     Founded in 2016, we are a society aimed at integrating people from all backgrounds sharing a common interest in Chinese and Asian culture. We do this through organising a variety of enjoyable events throughout the year. Dim Sum, bowling, Hot Pot and karaoke are some of the examples of events we have organised in the past. We hope to play a pivotal role in eliminating any barriers and misconceptions perceived to exist between student communities from different cultures and origins.
 
     Through the people and the wide range of exciting events we will bring you throughout the year, we hope you will have a happy and unforgettable university experience and establish lifelong friendships. Therefore, what have you got to lose? Come to have fun and meet new people at our next event!
-  image: images/wrapper-img.png
+  image: "/images/lasertag1.jpg"
   funfacts: []
 portfolio:
   enable: true
