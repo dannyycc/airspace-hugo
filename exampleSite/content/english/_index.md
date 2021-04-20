@@ -47,7 +47,7 @@ cta:
     label: Join Now
     link: https://www.warwicksu.com/societies-sports/societies/27719/
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
