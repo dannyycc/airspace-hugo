@@ -55,7 +55,7 @@ funfacts:
     designation: Secretary
     content: ''
   - name: Stella Wong
-    image: images/clients/avater-1.jpg
+    image: "/images/ryan.jpg"
     designation: President
     content: |-
       2nd Year PPE
