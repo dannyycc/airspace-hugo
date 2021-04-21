@@ -88,17 +88,10 @@ mission_vision:
       CS. We’re also setting up a inter-uni ABACUS discord for you to meet more people,
       with potential tournaments later on!\n\n\nFor self-isolating students, we also
       offer grocery delivery and other support! Check out our website for more details."
-  - name: Approach
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+  - name: Why should I join?
+    content: Membership is free, entitles you to discounted tickets and gives you
+      priority at limited availability events. It’s a great place to meet new friends,
+      it’s a society of diverse, but like-minded people.
 cta:
   enable: true
 
