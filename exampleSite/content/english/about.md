@@ -10,11 +10,11 @@ about:
   image: images/company/about.jpg
   title: What is ABACUS about?
   content: |-
-    Promotion of Chinese culture and values. Our events will allow you to experience this age old culture rich of unique fascinating traditions.
+    **Promotion of Chinese culture and values.** Our events will allow you to experience this age old culture rich of unique fascinating traditions.
 
-    Finding a sense of inclusivity. If you ever felt out of place, you may just be able to find like-minded people who will understand you. We are a close community and we try to accommodate everyone with common interests. You will likely build bonds for life and create a home away from home!
+    **Finding a sense of inclusivity.** If you ever felt out of place, you may just be able to find like-minded people who will understand you. We are a close community and we try to accommodate everyone with common interests. You will likely build bonds for life and create a home away from home!
 
-    Diversity. Not only you will find a range of all sorts of people with incredible international mindsets, yet woven together through the influence of a Chinese background. Nevertheless, we can also cater anyone with even the mildest interests in Chinese culture.
+    **Diversity.** Not only you will find a range of all sorts of people with incredible international mindsets, yet woven together through the influence of a Chinese background. Nevertheless, we can also cater anyone with even the mildest interests in Chinese culture.
 
     **Fun!** Above everything else, we wish to create an relaxed social environment for everyone to create cheerful memories and ever lasting relationships in the society.
   button:
