@@ -35,12 +35,9 @@ about:
     name: Awards Winner
     count: "20"
 features:
-  enable: true
+  enable: false
   title: Meet Our Team
   feature_item:
-  - icon: "/images/ryan.jpg"
-    name: 'Ryan '
-    content: President
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
