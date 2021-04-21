@@ -38,6 +38,9 @@ features:
   enable: true
   title: Meet Our Team
   feature_item:
+  - icon: "/images/ryan.jpg"
+    name: 'Ryan '
+    content: President
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
