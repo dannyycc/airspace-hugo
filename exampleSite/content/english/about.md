@@ -3,7 +3,7 @@ title: About Abacus
 description: Warwick ABACUS was formed by a group of 4 people with the aim of reducing
   misconceptions, bridging cultural differences and connect people regardless of who
   they are or where they are from with a common interest in Chinese culture.
-bg_image: images/feature-bg.jpg
+bg_image: "/images/kasbah.jpg"
 layout: about
 about:
   enable: true
