@@ -8,15 +8,19 @@ layout: about
 about:
   enable: true
   image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
+  title: What is ABACUS about?
   content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+    Promotion of Chinese culture and values. Our events will allow you to experience this age old culture rich of unique fascinating traditions.
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+    Finding a sense of inclusivity. If you ever felt out of place, you may just be able to find like-minded people who will understand you. We are a close community and we try to accommodate everyone with common interests. You will likely build bonds for life and create a home away from home!
+
+    Diversity. Not only you will find a range of all sorts of people with incredible international mindsets, yet woven together through the influence of a Chinese background. Nevertheless, we can also cater anyone with even the mildest interests in Chinese culture.
+
+    **Fun!** Above everything else, we wish to create an relaxed social environment for everyone to create cheerful memories and ever lasting relationships in the society.
   button:
     enable: true
-    label: Download Company Profile
-    link: "#"
+    label: Join Now
+    link: https://www.warwicksu.com/societies-sports/societies/27719/
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
