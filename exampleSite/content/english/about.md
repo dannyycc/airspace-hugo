@@ -94,5 +94,9 @@ mission_vision:
       it’s a society of diverse, but like-minded people.
 cta:
   enable: true
+  title: Title here
+  content: Membership is free, entitles you to discounted tickets and gives you priority
+    at limited availability events. It’s a great place to meet new friends, it’s a
+    society of diverse, but like-minded people.
 
 ---
