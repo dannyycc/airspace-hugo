@@ -78,17 +78,16 @@ mission_vision:
       Inclusivity is a core value of ABACUS, and as part of this, we only speak english.
       This society is for anyone interested in Asian culture or in coming to any of
       our events.
-  - name: Mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+  - name: What do you do?
+    content: "Warwick ABACUS organises fun events every week, such our “Boba and Chill”
+      socials, bar crawls, hotpot dinners, and much more. If you’re interested in
+      sports, we have multiple sports teams that represent our society that are another
+      great place to meet new people. \n\n\nWith the COVID-19 pandemic limiting in-person
+      activities, we’ll offer online socials including movie and minigame nights.
+      We also offer casual Esports teams for games including League, Valorant, and
+      CS. We’re also setting up a inter-uni ABACUS discord for you to meet more people,
+      with potential tournaments later on!\n\n\nFor self-isolating students, we also
+      offer grocery delivery and other support! Check out our website for more details."
   - name: Approach
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
