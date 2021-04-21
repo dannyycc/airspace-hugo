@@ -7,7 +7,7 @@ bg_image: "/images/kasbah.jpg"
 layout: about
 about:
   enable: true
-  image: images/company/about.jpg
+  image: "/images/dsc06976.jpg"
   title: What is ABACUS about?
   content: |-
     **Promotion of Chinese culture and values.** Our events will allow you to experience this age old culture rich of unique fascinating traditions.
