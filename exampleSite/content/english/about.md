@@ -23,6 +23,7 @@ about:
     link: https://www.warwicksu.com/societies-sports/societies/27719/
   funfacts:
   - icon: ion-ios-flask-outline
+    image: "/images/ryan.jpg"
     name: Instagram
     count: "349"
   - icon: ion-ios-flame-outline
@@ -44,7 +45,7 @@ features:
   enable: true
   title: Meet Our Team
   feature_item:
-  - icon: "![Cat](/images/ryan.jpg)"
+  - image: "/images/ryan.jpg"
     name: Who Is This Society For?
     content: ABACUS isn’t just for British or Chinese students, but for everyone!
       Inclusivity is a core value of ABACUS, and as part of this, we only speak english.
