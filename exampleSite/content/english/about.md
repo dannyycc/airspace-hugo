@@ -44,7 +44,7 @@ features:
   enable: true
   title: Meet Our Team
   feature_item:
-  - icon: ion-ios-help-outline
+  - icon: "![Cat](/images/ryan.jpg)"
     name: Who Is This Society For?
     content: ABACUS isn’t just for British or Chinese students, but for everyone!
       Inclusivity is a core value of ABACUS, and as part of this, we only speak english.
