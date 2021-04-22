@@ -22,8 +22,8 @@ about:
     label: Join Now
     link: https://www.warwicksu.com/societies-sports/societies/27719/
   funfacts:
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
+  - icon: ion-logo-instagram
+    name: Instagram
     count: "349"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
