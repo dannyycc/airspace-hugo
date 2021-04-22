@@ -22,7 +22,7 @@ about:
     label: Join Now
     link: https://www.warwicksu.com/societies-sports/societies/27719/
   funfacts:
-  - icon: ion-logo-instagram
+  - icon: ion-ios-flask-outline
     name: Instagram
     count: "349"
   - icon: ion-ios-flame-outline
@@ -41,7 +41,7 @@ about:
     name: Awards Winner
     count: "20"
 features:
-  enable: false
+  enable: true
   title: Meet Our Team
   feature_item:
   - icon: ion-ios-color-filter-outline
