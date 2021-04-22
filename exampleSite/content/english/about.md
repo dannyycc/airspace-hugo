@@ -45,9 +45,11 @@ features:
   title: Meet Our Team
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Who Is This Society For?
+    content: ABACUS isn’t just for British or Chinese students, but for everyone!
+      Inclusivity is a core value of ABACUS, and as part of this, we only speak english.
+      This society is for anyone interested in Asian culture or in coming to any of
+      our events.
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
