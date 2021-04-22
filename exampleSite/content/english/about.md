@@ -42,7 +42,7 @@ about:
     name: Awards Winner
     count: "20"
 features:
-  enable: true
+  enable: false
   title: Meet Our Team
   feature_item:
   - image: "/images/ryan.jpg"
