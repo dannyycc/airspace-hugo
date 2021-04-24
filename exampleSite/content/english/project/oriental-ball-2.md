@@ -1,23 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : ""
-bg_image: "images/feature-bg.jpg"
-category: "UI/UX Design"
-information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+title: Oriental Ball 2020 Pt 2
+description: Oriental Ball 2020 Pt 2
+image: '/images/oriental_ball_photos133.jpg'
+bg_image: "/images/oriental_ball_photos133.jpg"
+category: Oriental Ball 2020
+
 ---
 
 ![](/images/oriental_ball_photos51.jpg)
