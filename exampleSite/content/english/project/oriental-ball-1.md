@@ -1,6 +1,6 @@
 ---
-title: Oriental Ball 2020 Pt 1
-description: Oriental Ball 2020 Pt 1
+title: Oriental Ball 2020 Part 1
+description: Oriental Ball 2020 Part 1
 image: '/images/oriental_ball_photos133.jpg'
 bg_image: "/images/oriental_ball_photos133.jpg"
 category: Oriental Ball 2020
