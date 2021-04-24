@@ -3,7 +3,7 @@ title: Oriental Ball 2020 Pt 1
 description: Oriental Ball 2020 Pt 1
 image: '/images/oriental_ball_photos133.jpg'
 bg_image: "/images/oriental_ball_photos133.jpg"
-category: Images
+category: Oriental Ball 2020
 
 ---
 ![](/images/oriental_ball_photos1.jpg)
