@@ -1,6 +1,6 @@
 ---
-title: Gallery
-description: Photos From Previous Events
-bg_image: images/feature-bg.jpg
+title: Oriental Ball
+description: ''
+bg_image: "/images/oriental_ball_photos133.jpg"
 
 ---
