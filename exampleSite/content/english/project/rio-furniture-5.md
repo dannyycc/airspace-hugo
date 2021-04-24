@@ -15,4 +15,6 @@ information:
 ---
 Images
 
-![](images/oriental_ball_photos1.jpg)![](images/oriental_ball_photos2.jpg)
+![](/images/oriental_ball_photos1.jpg)
+
+![](/images/oriental_ball_photos2.jpg)
