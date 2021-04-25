@@ -120,7 +120,7 @@ name = "Gallery"
 parent = "Events"
 [[languages.en.menu.main]]
 URL = "blog"
-name = "Events"
+name = "Our Events"
 parent = "Events"
 [[languages.en.menu.main]]
 URL = "sponsors"
@@ -129,15 +129,11 @@ weight = 4
 [[languages.en.menu.main]]
 URL = "service"
 name = "Service"
-parent = "Events"
+weight = 5
 [[languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
-[[languages.en.menu.main]]
-icon = "ion-social-instagram-outline"
-URL = "https://www.instagram.com/warwickabacus/?hl=en"
-weight = 7
+weight = 6
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
