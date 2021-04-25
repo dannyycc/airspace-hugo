@@ -2,7 +2,7 @@
 title: "Crazy Rich Asians — Oriental Ball"
 date: 2019-03-08T11:07:10+06:00
 author: Abacus Editorial Team
-image : "images/blog/blog-post-1.jpg"
+image : "images/67174125_353343288928206_8377479086901035008_n.jpg"
 bg_image: "images/67174125_353343288928206_8377479086901035008_n.jpg"
 categories: ["Social Events"]
 tags: ["Oriental Ball","Social Events"]
