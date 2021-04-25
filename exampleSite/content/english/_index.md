@@ -40,39 +40,11 @@ cta:
   enable: true
   bg_image: "/images/emailbanner.jpg"
   title: Become a member of ABACUS and participate in our events
-  content: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
-    rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
-    clear:left; font:14px Helvetica,Arial,sans-serif;  width:500px;}\n\t/* Add your
-    own Mailchimp form style overrides in your site stylesheet or in this style block.\n\t
-    \  We recommend moving this block and the preceding CSS link to the HEAD of your
-    HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"https://warwickabacus.us20.list-manage.com/subscribe/post?u=e8d5f676d3fcafe38b42ffa03&amp;id=3b6a220bbf\"
-    method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
-    class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
-    To Our Newsletter</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
-    indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email
-    Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\"
-    value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div
-    class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
-    type=\"text\" value=\"\" name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div
-    class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
-    type=\"text\" value=\"\" name=\"LNAME\" class=\"required\" id=\"mce-LNAME\">\n</div>\n<div
-    class=\"mc-field-group size1of2\">\n\t<label for=\"mce-PHONE\">Phone Number </label>\n\t<input
-    type=\"text\" name=\"PHONE\" class=\"\" value=\"\" id=\"mce-PHONE\">\n</div>\n<div
-    class=\"mc-field-group\">\n\t<label for=\"mce-ID\">University ID  <span class=\"asterisk\">*</span>\n</label>\n\t<input
-    type=\"text\" value=\"\" name=\"ID\" class=\"required\" id=\"mce-ID\">\n</div>\n\t<div
-    id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
-    style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
-    style=\"display:none\"></div>\n\t</div>    <!-- real people should not fill this
-    in and expect good things - do not remove this or risk form bot signups-->\n    <div
-    style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
-    name=\"b_e8d5f676d3fcafe38b42ffa03_3b6a220bbf\" tabindex=\"-1\" value=\"\"></div>\n
-    \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-    id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
-    mc_embed_signup-->"
+  content: ''
   button:
     enable: true
-    label: Join Now
-    link: https://www.warwicksu.com/societies-sports/societies/27719/
+    label: Join Our Newsletter!
+    link: http://eepurl.com/g4K3Gf
 funfacts:
   enable: false
   title: Meet The Execs
