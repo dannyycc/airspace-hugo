@@ -39,7 +39,7 @@ service:
 cta:
   enable: true
   bg_image: "/images/emailbanner.jpg"
-  title: Become a member of ABACUS and participate in our events
+  title: Join Our Newsletter For The Latest Updates & Events
   content: ''
   button:
     enable: true
