@@ -1,7 +1,7 @@
 ---
 title: "Rio Furniture"
 description: "this is meta description"
-draft: false
+draft: true
 image : "images/portfolio/work6.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Video"
@@ -18,6 +18,7 @@ information:
     info : "HTML5 / PHP / CSS3"
   - label : "Client"
     info : "Jannie Kelonsky"
+
 ---
 
 ## Behance Website Redesign

@@ -3,8 +3,8 @@ title: Rio Furniture
 description: this is meta description
 image: images/portfolio/work4.jpg
 bg_image: images/feature-bg.jpg
-category: UI/UX Design
 information: []
+draft: true
 
 ---
 ## Yes sir
