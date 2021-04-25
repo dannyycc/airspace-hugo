@@ -87,7 +87,7 @@ URL = "gallery"
 name = "Gallery"
 weight = 2
 [[languages.en.menu.footer]]
-URL = "events"
+URL = "blog"
 name = "Events"
 weight = 3
 [[languages.en.menu.footer]]
@@ -115,7 +115,7 @@ URL = "gallery"
 name = "Gallery"
 weight = 3
 [[languages.en.menu.main]]
-URL = "events"
+URL = "blog"
 name = "Events"
 weight = 4
 [[languages.en.menu.main]]
