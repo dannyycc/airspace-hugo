@@ -111,33 +111,29 @@ URL = "about"
 name = "About"
 weight = 2
 [[languages.en.menu.main]]
+hasChildren = true
+name = "Events"
+weight = 3
+[[languages.en.menu.main]]
 URL = "gallery"
 name = "Gallery"
-weight = 3
+parent = "Events"
 [[languages.en.menu.main]]
 URL = "blog"
 name = "Events"
-weight = 4
-[[languages.en.menu.main]]
-hasChildren = true
-name = "More"
-weight = 5
-[[languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "More"
+parent = "Events"
 [[languages.en.menu.main]]
 URL = "sponsors"
 name = "Sponsors"
-parent = "More"
+weight = 4
 [[languages.en.menu.main]]
 URL = "service"
 name = "Service"
-parent = "More"
+parent = "Events"
 [[languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 5
 [[languages.en.menu.main]]
 icon = "ion-social-instagram-outline"
 URL = "https://www.instagram.com/warwickabacus/?hl=en"
