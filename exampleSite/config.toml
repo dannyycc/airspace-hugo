@@ -117,10 +117,12 @@ weight = 3
 [[languages.en.menu.main]]
 URL = "blog"
 name = "Our Events"
+weight = 1
 parent = "Events"
 [[languages.en.menu.main]]
 URL = "gallery"
 name = "Gallery"
+weight = 2
 parent = "Events"
 [[languages.en.menu.main]]
 URL = "sponsors"
