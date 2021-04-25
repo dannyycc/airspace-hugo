@@ -40,12 +40,12 @@ cta:
   enable: true
   bg_image: "/images/emailbanner.jpg"
   title: Become a member of ABACUS and participate in our events
-  content: "{{< rawhtml >}}\n<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
+  content: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
     rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
-    clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}\n\t/* Add your
-    own Mailchimp form style overrides in your site stylesheet or in this style block.\n\t
-    \  We recommend moving this block and the preceding CSS link to the HEAD of your
-    HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"https://warwickabacus.us20.list-manage.com/subscribe/post?u=e8d5f676d3fcafe38b42ffa03&amp;id=3b6a220bbf\"
+    clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own Mailchimp
+    form style overrides in your site stylesheet or in this style block.\n\t   We
+    recommend moving this block and the preceding CSS link to the HEAD of your HTML
+    file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"https://warwickabacus.us20.list-manage.com/subscribe/post?u=e8d5f676d3fcafe38b42ffa03&amp;id=3b6a220bbf\"
     method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
     class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
     To Our Newsletter</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
@@ -68,7 +68,7 @@ cta:
     name=\"b_e8d5f676d3fcafe38b42ffa03_3b6a220bbf\" tabindex=\"-1\" value=\"\"></div>\n
     \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
     id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
-    mc_embed_signup-->\n{{< /rawhtml >}}"
+    mc_embed_signup-->"
   button:
     enable: true
     label: Join Now
