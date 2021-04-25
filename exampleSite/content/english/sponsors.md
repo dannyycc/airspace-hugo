@@ -1,7 +1,7 @@
 ---
 title: "Our Sponsors"
 description: "Our Society Sponsors"
-bg_image: "images/feature-bg.jpg"
+bg_image: "/images/14066321_10206926774349899_5579392699104157106_o-e1571562526696-1.jpg"
 layout: "sponsors"
 draft: false
 
