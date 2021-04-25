@@ -7,6 +7,8 @@ other = "Address"
 other = "All"
 [buy_now]
 other = "Buy now"
+[website]
+other = "Visit Website"
 [categories]
 other = "Categories"
 [contact_form_email]

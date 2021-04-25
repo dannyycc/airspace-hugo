@@ -10,7 +10,7 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "Warwick Home"
-    price: ""
+    price: "£70 Off Your First Rent"
     content : "Warwick Home sponsors our events. They are a student accommodation rental agency. Therefore, check out their website for the best deals."
     link : "https://www.warwickhomerental.com/"
     services:
