@@ -115,12 +115,12 @@ hasChildren = true
 name = "Events"
 weight = 3
 [[languages.en.menu.main]]
-URL = "gallery"
-name = "Gallery"
-parent = "Events"
-[[languages.en.menu.main]]
 URL = "blog"
 name = "Our Events"
+parent = "Events"
+[[languages.en.menu.main]]
+URL = "gallery"
+name = "Gallery"
 parent = "Events"
 [[languages.en.menu.main]]
 URL = "sponsors"
