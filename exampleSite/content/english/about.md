@@ -21,26 +21,7 @@ about:
     enable: true
     label: Join Now
     link: https://www.warwicksu.com/societies-sports/societies/27719/
-  funfacts:
-  - icon: ion-ios-flask-outline
-    image: "/images/ryan.jpg"
-    name: Instagram
-    count: "349"
-  - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "35000"
-  - icon: ion-ios-pint-outline
-    name: Satisfied Customer
-    count: "70"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
-    count: "10"
-  - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
-  - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
+  funfacts: []
 features:
   enable: false
   title: Meet Our Team
