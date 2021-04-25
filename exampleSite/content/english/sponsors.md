@@ -19,17 +19,13 @@ pricing:
     - Shared Bathroom, Ensuites or Studio Rooms
       
   # pricing table loop
-  - name : "Premium"
-    price: "$199"
-    content : "Suitable for small businesses with up to 5 employees"
-    link : "#"
+  - name : ""
+    price: "Royal Cha"
+    content : "Royal Cha is our favorite bubble tea shop in Coventry."
+    link : "https://www.facebook.com/RoyalChaOfficial/"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - 20% discount on all foods and drinks
+    - Coupons for the winner of ABACUS contests and challenges
       
   # pricing table loop
   - name : "Advance"
