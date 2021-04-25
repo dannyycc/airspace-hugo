@@ -41,11 +41,6 @@ cta:
   bg_image: "/images/emailbanner.jpg"
   title: Become a member of ABACUS and participate in our events
   content: ''
-  {{< rawhtml >}}
-    <p class="speshal-fancy-custom">
-      This is <strong>raw HTML</strong>, inside Markdown.
-    </p>
-  {{< /rawhtml >}}
   button:
     enable: true
     label: Join Now
@@ -110,3 +105,9 @@ funfacts:
     image: "/images/angel-1.jpg"
 
 ---
+
+{{< rawhtml >}}
+    <p class="speshal-fancy-custom">
+      This is <strong>raw HTML</strong>, inside Markdown.
+    </p>
+ {{< /rawhtml >}}
