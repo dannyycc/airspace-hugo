@@ -1,26 +1,22 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
+title: "Our Sponsors"
+description: "Our Society Sponsors"
 bg_image: "images/feature-bg.jpg"
-layout: "pricing"
+layout: "sponsors"
 draft: false
 
-################################ pricing ################################
 pricing:
   enable : true
   pricing_table:
   # pricing table loop
-  - name : "Basic"
-    price: "$99"
-    content : "Perfect for single freelancers who work by themselves"
-    link : "#"
+  - name : "Warwick Home"
+    price: "£70 Off Your First Rent"
+    content : "Warwick Home sponsors our events. They are a student accommodation rental agency. Therefore, check out their website for the best deals"
+    link : "https://www.warwickhomerental.com/"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Houses around Canley Area
+    - Near the University
+    - Shared Bathroom, Ensuites or Studio Rooms
       
   # pricing table loop
   - name : "Premium"
