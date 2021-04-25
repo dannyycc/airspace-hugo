@@ -115,7 +115,7 @@ URL = "gallery"
 name = "Gallery"
 weight = 3
 [[languages.en.menu.main]]
-URL = "blog"
+URL = "events"
 name = "Events"
 weight = 4
 [[languages.en.menu.main]]
