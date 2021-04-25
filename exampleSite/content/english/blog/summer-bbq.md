@@ -4,7 +4,7 @@ date: 2019-07-05T11:07:10+06:00
 author: Abacus Editorial Team
 image: "images/summer-bbq/64219764_2073209499651353_8542137498690650112_o.jpg"
 bg_image: "images/summer-bbq/64219764_2073209499651353_8542137498690650112_o.jpg"
-categories: ["Social Events"]
+categories: ["Social Events","Abacus 2019/2020"]
 tags: ["Social Events"]
 description: ""
 draft: false

@@ -4,7 +4,7 @@ date: 2019-10-10T11:07:10+06:00
 author: Abacus Editorial Team
 image: "images/ice-breaker-games/71927760_2151847781787524_8221234168151932928_o_2151847778454191.jpg"
 bg_image: "images/ice-breaker-games/71927760_2151847781787524_8221234168151932928_o_2151847778454191.jpg"
-categories: ["Social Events"]
+categories: ["Social Events","Abacus 2019/2020"]
 tags: ["Social Events"]
 description: ""
 draft: false

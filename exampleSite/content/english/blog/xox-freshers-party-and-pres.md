@@ -4,7 +4,7 @@ date: 2019-10-03T11:07:10+06:00
 author: Abacus Editorial Team
 image: "images/kasbash/72572249_3010387652304711_6295641303896031232_o.jpg"
 bg_image: "images/kasbash/72572249_3010387652304711_6295641303896031232_o.jpg"
-categories: ["Social Events"]
+categories: ["Social Events","Abacus 2019/2020"]
 tags: ["Social Events"]
 description: ""
 draft: false

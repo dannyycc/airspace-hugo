@@ -4,7 +4,7 @@ date: 2019-09-27T11:07:10+06:00
 author: Abacus Editorial Team
 image: "images/meet-and-greet/70712563_2142300646075571_8244880930938814464_o_2142300642742238.jpg"
 bg_image: "images/meet-and-greet/70712563_2142300646075571_8244880930938814464_o_2142300642742238.jpg"
-categories: ["Social Events"]
+categories: ["Social Events","Abacus 2019/2020"]
 tags: ["Social Events"]
 description: ""
 draft: false
