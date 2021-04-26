@@ -26,21 +26,10 @@ pricing:
     services:
     - 20% discount on all foods and drinks
     - Coupons for the winner of ABACUS contests and challenges
-      
-  # pricing table loop
-  - name : "Advance"
-    price: "$299"
-    content : "Suitable for large businesses with unlimited employees"
-    link : "#"
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-        
-############################# call to action #################################
+    
+
+    
+############ call to action #################################
 cta:
   enable : true
   # call to action content comes from "_index.md"

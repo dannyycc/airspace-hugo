@@ -5,7 +5,7 @@ author: Abacus Editorial Team
 image: "/images/82718271_2230398820599086_1662935054097055744_n-2.jpg"
 bg_image: "/images/82718271_2230398820599086_1662935054097055744_n-2.jpg"
 categories: ["Social Events","Abacus 2019/2020"]
-tags: ["Social Events"]
+tags: ["Social Events","Oriental Ball"]
 description: ""
 draft: false
 type: "post"
