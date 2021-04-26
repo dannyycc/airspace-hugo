@@ -4,7 +4,7 @@ date: 2019-10-26T11:07:10+06:00
 author: Abacus Editorial Team
 image: "/images/wing-wah-buffet/DSC06943.jpg"
 bg_image: "/images/wing-wah-buffet/DSC06943.jpg"
-categories: ["Social Events"]
+categories: ["Social Events","Abacus 2019/2020"]
 tags: ["Social Events"]
 description: ""
 draft: true

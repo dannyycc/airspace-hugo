@@ -4,7 +4,7 @@ date: 2019-10-12T11:07:10+06:00
 author: Abacus Editorial Team
 image: ""
 bg_image: ""
-categories: ["Social Events"]
+categories: ["Social Events","Abacus 2019/2020"]
 tags: ["Social Events"]
 description: ""
 draft: true
