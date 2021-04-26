@@ -3,9 +3,9 @@ title: "Gusto Christmas Dinner"
 date: 2019-11-28T11:07:10+06:00
 author: Abacus Editorial Team
 image: "/images/gusto-christmas-dinner/78613147_2197100650595570_1291367524830543872_o.jpg"
-bg_image: "/images/hgusto-christmas-dinner/78613147_2197100650595570_1291367524830543872_o.jpg"
+bg_image: "/images/gusto-christmas-dinner/78613147_2197100650595570_1291367524830543872_o.jpg"
 categories: ["Social Events","Abacus 2019/2020"]
-tags: ["Social Events"]
+tags: ["Social Events","Christmas"]
 description: ""
 draft: false
 type: "post"
