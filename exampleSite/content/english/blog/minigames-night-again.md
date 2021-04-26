@@ -1,5 +1,5 @@
 ---
-title: "Asians In Solidarity With BLM"
+title: "Minigames Night Again!"
 date: 2020-11-07T11:07:10+06:00
 author: Abacus Editorial Team
 image: "/images/minigames-nightv2.jpg"
