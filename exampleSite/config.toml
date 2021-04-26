@@ -125,10 +125,6 @@ URL = "sponsors"
 name = "Sponsors"
 weight = 4
 [[languages.en.menu.main]]
-URL = "service"
-name = "Service"
-weight = 5
-[[languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
