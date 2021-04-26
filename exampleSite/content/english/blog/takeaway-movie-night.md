@@ -10,5 +10,3 @@ description: ""
 draft: false
 type: "post"
 ---
-
-![](/images/81586349_2231384557167179_8926975501944225792_o-2.jpg)
