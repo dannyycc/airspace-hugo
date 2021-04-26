@@ -83,25 +83,21 @@ URL = "about"
 name = "About"
 weight = 1
 [[languages.en.menu.footer]]
-URL = "gallery"
-name = "Gallery"
-weight = 2
-[[languages.en.menu.footer]]
 URL = "blog"
 name = "Events"
+weight = 2
+[[languages.en.menu.footer]]
+URL = "gallery"
+name = "Gallery"
 weight = 3
 [[languages.en.menu.footer]]
 URL = "sponsors"
 name = "Sponsors"
 weight = 4
 [[languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[languages.en.menu.footer]]
 URL = "contact"
-name = "Contact"
-weight = 6
+name = "Contact Us"
+weight = 5
 [[languages.en.menu.main]]
 URL = "/"
 name = "Home"
