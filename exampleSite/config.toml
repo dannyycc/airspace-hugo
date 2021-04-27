@@ -271,7 +271,7 @@ home = ["HTML"]
 [params]
 author = "Warwick Abacus"
 description = "Warwick Abacus Society"
-images = ["images/logo.png"]
+images = ["images/logo.jpg"]
 logo = "/images/favicon.png"
 logo_width = "80px"
 title = "Warwick Abacus"
